@@ -1,0 +1,7 @@
+Superhero: Programmer
+
+Location: A cave or dark place
+
+Powers: Intelligence, Creativity, the ability to tell everyone your code is better than theirs
+
+Weakness: Uncommented code
