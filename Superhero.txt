@@ -1,7 +1,9 @@
-Superhero: Programmer
+Microwave man
 
-Location: A cave or dark place
+The kitchen, USA
 
-Powers: Intelligence, Creativity, the ability to tell everyone your code is better than theirs
+Can heat anything up
+Can count to 99:99
+Can defrost things
 
-Weakness: Uncommented code
+Doesnt mix well with metal

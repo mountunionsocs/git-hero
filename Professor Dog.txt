@@ -1,0 +1,4 @@
+Name: Professor Dog
+Location: Planet Park
+3 superpowers: professional fetch-er, master professor of the Dog Theory, capable of being loyal to all but cats and squirrels
+Weakness: peanut butter
