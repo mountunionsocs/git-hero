@@ -1,9 +1,4 @@
 # Skyler's Hero
-- Location
--- Saturn
-- Powers
--- Flying
--- Invisibility
--- Smart
-- Weakness
--- Homework
+- Location: Saturn
+- Powers: Flying, Invisibility, Smart
+- Weakness: Homework
